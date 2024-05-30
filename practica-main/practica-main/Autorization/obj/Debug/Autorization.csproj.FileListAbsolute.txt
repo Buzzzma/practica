@@ -1,0 +1,64 @@
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\bin\Debug\Autorization.exe.config
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\bin\Debug\Autorization.exe
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\bin\Debug\Autorization.pdb
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Autorization.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Autorization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Autorization_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Autorization_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Autorization.g.resources
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Autorization.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Autorization.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Autorization.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Autorization.exe
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Autorization.pdb
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Major.g.cs
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Major.baml
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Registr.g.cs
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Registr.baml
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Form.g.cs
+C:\Users\Пользователь\Desktop\Практика ис21\Autorization\obj\Debug\Form.baml
+C:\Users\batyr\Desktop\Autorization\bin\Debug\Autorization.exe.config
+C:\Users\batyr\Desktop\Autorization\bin\Debug\Autorization.exe
+C:\Users\batyr\Desktop\Autorization\bin\Debug\Autorization.pdb
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Autorization.csproj.AssemblyReference.cache
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Form.g.cs
+C:\Users\batyr\Desktop\Autorization\obj\Debug\MainWindow.g.cs
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Major.g.cs
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Registr.g.cs
+C:\Users\batyr\Desktop\Autorization\obj\Debug\App.g.cs
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Autorization_MarkupCompile.cache
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Autorization_MarkupCompile.lref
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Form.baml
+C:\Users\batyr\Desktop\Autorization\obj\Debug\MainWindow.baml
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Major.baml
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Registr.baml
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Autorization.g.resources
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Autorization.Properties.Resources.resources
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Autorization.csproj.GenerateResource.cache
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Autorization.csproj.CoreCompileInputs.cache
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Autorization.exe
+C:\Users\batyr\Desktop\Autorization\obj\Debug\Autorization.pdb
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\bin\Debug\Autorization.exe.config
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\bin\Debug\Autorization.exe
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\bin\Debug\Autorization.pdb
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Autorization.csproj.AssemblyReference.cache
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Form.g.cs
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\MainWindow.g.cs
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Major.g.cs
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Registr.g.cs
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\App.g.cs
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Autorization_MarkupCompile.cache
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Autorization_MarkupCompile.lref
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Form.baml
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\MainWindow.baml
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Major.baml
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Registr.baml
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Autorization.g.resources
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Autorization.Properties.Resources.resources
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Autorization.csproj.GenerateResource.cache
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Autorization.csproj.CoreCompileInputs.cache
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Autorization.exe
+C:\Users\Света\Downloads\practica-main\practica-main\Autorization\obj\Debug\Autorization.pdb

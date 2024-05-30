@@ -1,0 +1,56 @@
+﻿<Window x:Class="Autorization.Major"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Autorization"
+        mc:Ignorable="d" Loaded="Window_Loaded"
+        Title="Major" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.ColumnSpan="2" HorizontalAlignment="Center" 
+                   Text="Информация"
+                   FontSize="30" />
+
+        <StackPanel Width="160" Grid.Row="1" Grid.Column="0">
+            <Button Margin="0 0 0 10" FontSize="20" 
+                    Content="Клиенты" Click="Clients_Click"/>
+            <Button Margin="0 0 0 10" FontSize="20" 
+                    Content="Товары" Click="Product_Click"/>
+            <Button Margin="0 0 0 10" FontSize="20" 
+                    Content="Оформить заказ" Click="Form_Click"/>
+            <Button Margin="0 0 0 10" FontSize="20" 
+                    Content="Выйти" Click="Exit_Click"/>
+        </StackPanel>
+
+        <!-- Data -->
+        <ListView x:Name="listview" Grid.Row="1" Grid.Column="1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=mark}" Width="100">Марка</GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=model}" Width="100">Модель</GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=date}" Width="100">Год</GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=count}" Width="100">Количество</GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView Visibility="Hidden" x:Name="listviewuser" Grid.Row="1" Grid.Column="1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=name}" Width="100">Имя</GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=surname}" Width="100">Фамилия</GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=markAuto}" Width="100">Марка</GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Path=prodCount}" Width="100">Количество</GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
